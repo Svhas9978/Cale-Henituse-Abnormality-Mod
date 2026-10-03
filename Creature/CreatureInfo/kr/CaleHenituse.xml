@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreatureInfo>
+  <info>94180418</info>
+  <narration key="0">붉은 머리의 남자는 조용히 책을 읽으며 차를 마시고 있다.</narration>
+  <narration key="1">케일은 페이지를 넘기며 한 모금 더 마신다.</narration>
+  <narration key="2">그가 있는 곳의 공기가 이상할 정도로 편안하다.</narration>
+  <narration key="3">그가 조용히 기침하며 입가의 피를 닦는다.</narration>
+  <codeNo>F-04-18</codeNo>
+  <portrait>Custom/CaleHenituse</portrait>
+  <name openLevel="0">케일 헤니투스</name>
+  <riskLevel>ALEPH</riskLevel>
+  <openText>붉은 머리의 젊은 남자가 책을 읽으며 차를 마신다.</openText>
+  <desc id="0" openLevel="0">그는 공격성을 보이지 않고 책과 차, 휴식만을 원한다.</desc>
+  <desc id="1" openLevel="1">강제로 제압하려는 시도는 통하지 않는다.</desc>
+  <desc id="2" openLevel="2">클리포트 카운터가 0이 되면 해당 부서를 천천히 돌아다닌다.</desc>
+  <desc id="3" openLevel="3">시련 중 같은 부서에서 충분한 인원이 사망하면 은빛 방패를 전개한다.</desc>
+  <desc id="4" openLevel="4">방패 사용 뒤에는 깊은 수면 상태에 들어간다.</desc>
+  <specialTipSize size="4"/>
+  <specialTip openLevel="0" key="0">진압 작업은 수행하지 마십시오.</specialTip>
+  <specialTip openLevel="1" key="1">애착 작업이 가장 안전합니다.</specialTip>
+  <specialTip openLevel="2" key="2">시련 중 부서 내 사망자가 발생하면 개입할 수 있습니다.</specialTip>
+  <specialTip openLevel="3" key="3">방패 사용은 하루에 한 번만 가능합니다.</specialTip>
+</CreatureInfo>

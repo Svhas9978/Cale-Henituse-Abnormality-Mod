@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CreatureInfo>
+  <info>94180418</info>
+  <narration key="0">He looks completely at home, as if the containment cell were a particularly unpleasant guest room.</narration>
+  <narration key="1">Cale turns a page and takes another sip of tea.</narration>
+  <narration key="2">The air around him feels strangely safe.</narration>
+  <narration key="3">He coughs quietly, wiping a trace of blood from his lips.</narration>
+
+  <codeNo>F-04-18</codeNo>
+  <portrait>Custom/CaleHenituse</portrait>
+  <name openLevel="0">Cale Henituse</name>
+  <riskLevel>ALEPH</riskLevel>
+  <openText>Cale Henituse sits in silence, reading a book and drinking tea.</openText>
+
+  <desc id="0" openLevel="0">
+    A young red-haired man wearing an expensive dark military uniform.
+    He shows no hostility and seems more interested in books, tea, and uninterrupted rest.
+  </desc>
+  <desc id="1" openLevel="1">
+    He is exceptionally difficult to provoke. Suppression attempts do not work.
+  </desc>
+  <desc id="2" openLevel="2">
+    When the Qliphoth Counter reaches zero, Cale leaves the room and calmly walks through his department.
+  </desc>
+  <desc id="3" openLevel="3">
+    During an Ordeal, Cale can manifest a Silver Shield if enough employees die in his department.
+  </desc>
+  <desc id="4" openLevel="4">
+    The shield saves the department but leaves Cale weakened and the survivors shaken.
+  </desc>
+  <desc id="5" openLevel="5">
+    The records around this abnormality contain fragments that do not belong to the City.
+  </desc>
+
+  <specialTipSize size="4"/>
+  <specialTip openLevel="0" key="0">Do not use Suppression. Cale will not fight back, but the attempt immediately triggers his wandering state.</specialTip>
+  <specialTip openLevel="1" key="1">Attachment work is the safest way to interact with him.</specialTip>
+  <specialTip openLevel="2" key="2">If an Ordeal kills personnel in his department, he may intervene once per day.</specialTip>
+  <specialTip openLevel="3" key="3">A short-lived period of sleep follows the Silver Shield. The counter remains at zero until the next day.</specialTip>
+</CreatureInfo>
