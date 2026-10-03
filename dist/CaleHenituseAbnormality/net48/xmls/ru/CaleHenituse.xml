@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentInfo>
+  <weapon id="94180419">
+    <name>Меч корня Мирового Древа</name>
+    <desc>PALE 30-50. Каждый пятый удар связывает цель корнями.</desc>
+  </weapon>
+  <armor id="94180420">
+    <name>Униформа Главнокомандующего Северо-Востока</name>
+    <desc>RED 0.2 / WHITE 0.3 / BLACK 0.5 / PALE 1.0. Даёт ауру командования.</desc>
+  </armor>
+  <gift id="94180421">
+    <name>Разрешение на древние силы</name>
+    <desc>+15 HP, +15 SP. Синергия с мечом корня Мирового Древа.</desc>
+  </gift>
+</EquipmentInfo>

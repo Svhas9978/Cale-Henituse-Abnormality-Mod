@@ -1,0 +1,12 @@
+id=94180419
+name=Меч-корень Мирового Древа
+riskLevel=ALEPH
+type=weapon
+weaponClassType=SWORD
+damageType=PALE
+minDamage=30
+maxDamage=50
+attackSpeed=4.0
+range=2.0
+script=CaleHenituseAbnormality.CaleTreeSwordScript
+requireJustice=5

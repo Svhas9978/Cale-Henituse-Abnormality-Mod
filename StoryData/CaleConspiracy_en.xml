@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<StoryData id="CaleConspiracy">
+  <Scene id="0" title="A Crack in the Reset">
+    <line>Angela enters Cale's chamber during the preparation phase.</line>
+    <line>She admits that the Manager has reset the day again.</line>
+    <line>Cale asks what Ayin and the Eye of the City actually intend to accomplish.</line>
+  </Scene>
+  <Scene id="1" title="The Truth">
+    <line>On the fiftieth day, the Light will spread through the City.</line>
+    <line>When the Light ends, the Corporation facilities will collapse or be sealed.</line>
+    <line>The people living around the branches of the Corporation will be abandoned.</line>
+  </Scene>
+  <Scene id="2" title="The Contract">
+    <line>Cale contacts the God of Death, the God of the Sun, and the God of Balance.</line>
+    <line>They must open portals above every branch and evacuate everyone on the fiftieth day.</line>
+    <line>The God of Death seals the contract.</line>
+  </Scene>
+</StoryData>

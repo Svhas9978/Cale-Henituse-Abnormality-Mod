@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentInfo>
+  <weapon id="94180419"><name>세계수의 뿌리검</name><desc>PALE 30-50. 5번째 공격마다 뿌리 속박.</desc></weapon>
+  <armor id="94180420"><name>북동부 총사령관 제복</name><desc>RED 0.2 / WHITE 0.3 / BLACK 0.5 / PALE 1.0.</desc></armor>
+  <gift id="94180421"><name>고대의 힘에 대한 허가</name><desc>HP +15, SP +15. 세계수의 뿌리검과 시너지.</desc></gift>
+</EquipmentInfo>

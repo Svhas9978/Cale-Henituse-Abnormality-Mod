@@ -1,0 +1,12 @@
+{
+  "name": "Cale Henituse Abnormality Mod",
+  "version": "0.1.0-source",
+  "abnormality_id": 94180418,
+  "equipment_ids": [
+    94180419,
+    94180420,
+    94180421
+  ],
+  "binary_included": false,
+  "reason": "Original Lobotomy Corporation Managed DLLs were not supplied, so the source is provided for local build."
+}

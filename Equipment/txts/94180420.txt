@@ -1,0 +1,11 @@
+id=94180420
+name=Мундир Главнокомандующего Северо-Востока
+riskLevel=ALEPH
+type=armor
+sprite=94180420
+script=CaleHenituseAbnormality.CaleCommanderArmorScript
+limit=2
+defenseR=0.2
+defenseW=0.3
+defenseB=0.5
+defenseP=1.0

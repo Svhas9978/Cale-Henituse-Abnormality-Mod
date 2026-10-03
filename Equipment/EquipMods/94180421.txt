@@ -1,0 +1,10 @@
+id=94180421
+name=Разрешение на Древние Силы
+riskLevel=ALEPH
+type=gift
+sprite=PermissionAncientPowers
+script=CaleHenituseAbnormality.CaleAncientPermissionGiftScript
+slot=HAND
+slot=NECK
+hp=15
+mental=15

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentInfo>
+  <weapon id="94180419">
+    <name>World Tree Root Sword</name>
+    <desc>PALE 30-50. Every fifth strike binds the target with roots.</desc>
+  </weapon>
+  <armor id="94180420">
+    <name>Uniform of Commander of the Northeast</name>
+    <desc>RED 0.2 / WHITE 0.3 / BLACK 0.5 / PALE 1.0. Grants an aura of command.</desc>
+  </armor>
+  <gift id="94180421">
+    <name>Permission for Ancient Powers</name>
+    <desc>+15 HP, +15 SP. Synergizes with the World Tree Root Sword.</desc>
+  </gift>
+</EquipmentInfo>

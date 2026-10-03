@@ -1,0 +1,72 @@
+script=CaleHenituseAbnormality.CaleHenituseAbnormality
+riskLevel=ALEPH
+maxWorkCount=4
+
+workProb type=R
+level=1 prob=0
+level=2 prob=5
+level=3 prob=10
+level=4 prob=15
+level=5 prob=15
+
+workProb type=W
+level=1 prob=30
+level=2 prob=35
+level=3 prob=40
+level=4 prob=45
+level=5 prob=45
+
+workProb type=B
+level=1 prob=75
+level=2 prob=80
+level=3 prob=85
+level=4 prob=90
+level=5 prob=90
+
+workProb type=P
+level=1 prob=0
+level=2 prob=0
+level=3 prob=0
+level=4 prob=0
+level=5 prob=0
+
+qliphoth=3
+workCooltime=15
+escapeable=false
+hp=999999
+speed=0.4
+workSpeed=0.95
+
+feelingStateCubeBounds cube=0 cube=5 cube=11
+workDamage type=R min=0 max=0
+workDamage type=W min=0 max=0
+workDamage type=B min=0 max=0
+workDamage type=P min=0 max=0
+
+defense id=1
+defenseElement type=R value=0.2
+defenseElement type=W value=0.3
+defenseElement type=B value=0.5
+defenseElement type=P value=1.0
+
+observeInfo total=240
+observeElement name=stat cost=20
+observeElement name=defense cost=25
+observeElement name=work_R cost=35
+observeElement name=work_W cost=45
+observeElement name=work_B cost=55
+observeElement name=care cost=60
+
+observeBonus level=1 type=workProb value=0
+observeBonus level=2 type=workProb value=0
+observeBonus level=3 type=workProb value=0
+observeBonus level=4 type=workProb value=0
+observeBonus level=5 type=workProb value=0
+
+equipment level=3 cost=70 equipId=94180421
+equipment level=4 cost=90 equipId=94180420
+equipment level=5 cost=120 equipId=94180419
+
+graph=
+anim=Unit/creature/magicalGirl
+portrait=Unit/creature/magicalGirl

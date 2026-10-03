@@ -1,0 +1,3 @@
+c:\Users\Svhas9978\Documents\Cale_Henituse_Abnormality_Mod\src\obj\Debug\net35\CaleHenituseAbnormality.csproj.AssemblyReference.cache
+c:\Users\Svhas9978\Documents\Cale_Henituse_Abnormality_Mod\src\obj\Debug\net35\CaleHenituseAbnormality.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Svhas9978\Documents\Cale_Henituse_Abnormality_Mod\src\obj\Debug\net35\CaleHenituseAbnormality.csproj.CoreCompileInputs.cache
